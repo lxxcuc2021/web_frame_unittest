@@ -1,0 +1,277 @@
+2021-12-01 14:20:48,808 - testcase - INFO - 获取测试数据
+2021-12-01 14:21:00,523 - BasePage - INFO - 打开默认页面
+2021-12-01 14:21:00,573 - BasePage - INFO - find the element successful
+2021-12-01 14:21:00,662 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:21:00,677 - BasePage - INFO - find the element successful
+2021-12-01 14:21:00,740 - BasePage - INFO - find the element successful
+2021-12-01 14:21:05,976 - BasePage - INFO - find the element successful
+2021-12-01 14:21:06,056 - BasePage - INFO - type ad min@tynam.com in inputbox
+2021-12-01 14:21:06,067 - BasePage - INFO - find the element successful
+2021-12-01 14:21:06,135 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:21:06,143 - BasePage - INFO - find the element successful
+2021-12-01 14:21:06,188 - BasePage - INFO - find the element successful
+2021-12-01 14:21:11,369 - BasePage - INFO - find the element successful
+2021-12-01 14:21:11,435 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:21:11,449 - BasePage - INFO - find the element successful
+2021-12-01 14:21:11,499 - BasePage - INFO - find the element successful
+2021-12-01 14:21:16,677 - BasePage - INFO - find the element successful
+2021-12-01 14:21:16,756 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:21:16,770 - BasePage - INFO - find the element successful
+2021-12-01 14:21:16,819 - BasePage - INFO - type 1 in inputbox
+2021-12-01 14:21:16,827 - BasePage - INFO - find the element successful
+2021-12-01 14:21:16,896 - BasePage - INFO - find the element successful
+2021-12-01 14:21:22,086 - BasePage - INFO - find the element successful
+2021-12-01 14:21:22,166 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:21:22,177 - BasePage - INFO - find the element successful
+2021-12-01 14:21:22,232 - BasePage - INFO - type 111111 in inputbox
+2021-12-01 14:21:22,240 - BasePage - INFO - find the element successful
+2021-12-01 14:21:27,497 - BasePage - INFO - find the element successful
+2021-12-01 14:21:27,561 - BasePage - INFO - type admin1@tynam.com in inputbox
+2021-12-01 14:21:27,569 - BasePage - INFO - find the element successful
+2021-12-01 14:21:27,626 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:21:27,634 - BasePage - INFO - find the element successful
+2021-12-01 14:21:32,884 - BasePage - INFO - find the element successful
+2021-12-01 14:21:32,968 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:21:32,980 - BasePage - INFO - find the element successful
+2021-12-01 14:21:33,069 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:21:33,082 - BasePage - INFO - find the element successful
+2021-12-01 14:21:33,216 - BasePage - INFO - find the element successful
+2021-12-01 14:21:38,493 - testcase - INFO - 退出浏览器
+2021-12-01 14:24:01,919 - testcase - INFO - 获取测试数据
+2021-12-01 14:24:16,879 - BasePage - INFO - 打开默认页面
+2021-12-01 14:24:16,939 - BasePage - INFO - find the element successful
+2021-12-01 14:24:17,040 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:24:17,055 - BasePage - INFO - find the element successful
+2021-12-01 14:24:17,115 - BasePage - INFO - find the element successful
+2021-12-01 14:24:22,306 - BasePage - INFO - find the element successful
+2021-12-01 14:24:22,398 - BasePage - INFO - type ad min@tynam.com in inputbox
+2021-12-01 14:24:22,407 - BasePage - INFO - find the element successful
+2021-12-01 14:24:22,476 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:24:22,485 - BasePage - INFO - find the element successful
+2021-12-01 14:24:22,536 - BasePage - INFO - find the element successful
+2021-12-01 14:24:27,771 - BasePage - INFO - find the element successful
+2021-12-01 14:24:27,829 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:24:27,842 - BasePage - INFO - find the element successful
+2021-12-01 14:24:27,896 - BasePage - INFO - find the element successful
+2021-12-01 14:24:33,079 - BasePage - INFO - find the element successful
+2021-12-01 14:24:33,160 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:24:33,172 - BasePage - INFO - find the element successful
+2021-12-01 14:24:33,224 - BasePage - INFO - type 1 in inputbox
+2021-12-01 14:24:33,232 - BasePage - INFO - find the element successful
+2021-12-01 14:24:33,291 - BasePage - INFO - find the element successful
+2021-12-01 14:24:38,480 - BasePage - INFO - find the element successful
+2021-12-01 14:24:39,326 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:24:39,336 - BasePage - INFO - find the element successful
+2021-12-01 14:24:39,560 - BasePage - INFO - type 111111 in inputbox
+2021-12-01 14:24:39,574 - BasePage - INFO - find the element successful
+2021-12-01 14:24:44,830 - BasePage - INFO - find the element successful
+2021-12-01 14:24:44,920 - BasePage - INFO - type admin1@tynam.com in inputbox
+2021-12-01 14:24:44,929 - BasePage - INFO - find the element successful
+2021-12-01 14:24:44,992 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:24:45,000 - BasePage - INFO - find the element successful
+2021-12-01 14:24:50,224 - BasePage - INFO - find the element successful
+2021-12-01 14:24:50,309 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 14:24:50,317 - BasePage - INFO - find the element successful
+2021-12-01 14:24:50,385 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 14:24:50,392 - BasePage - INFO - find the element successful
+2021-12-01 14:24:50,476 - BasePage - INFO - find the element successful
+2021-12-01 14:24:55,700 - testcase - INFO - 退出浏览器
+2021-12-01 14:25:09,269 - sendEmail - ERROR - error；无法发送邮件
+2021-12-01 15:10:23,002 - BasePage - INFO - 打开默认页面
+2021-12-01 15:13:10,054 - BasePage - INFO - 打开默认页面
+2021-12-01 15:15:14,723 - BasePage - INFO - 打开默认页面
+2021-12-01 15:16:20,715 - BasePage - INFO - 打开默认页面
+2021-12-01 15:20:09,234 - BasePage - INFO - 打开默认页面
+2021-12-01 15:22:15,301 - BasePage - INFO - 打开默认页面
+2021-12-01 15:24:47,032 - BasePage - INFO - 打开默认页面
+2021-12-01 15:25:27,096 - BasePage - INFO - 打开默认页面
+2021-12-01 15:25:36,775 - BasePage - INFO - 打开默认页面
+2021-12-01 15:25:36,812 - BasePage - INFO - find the element successful
+2021-12-01 15:25:37,039 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 15:25:37,050 - BasePage - INFO - find the element successful
+2021-12-01 15:25:37,112 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 15:25:37,126 - BasePage - INFO - find the element successful
+2021-12-01 15:25:37,223 - BasePage - ERROR - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='add-dialog']/div[2]/input"}
+  (Session info: chrome=95.0.4638.69)
+
+2021-12-01 15:25:37,404 - BasePage - INFO - take screenshot and save to folder:/screenshots
+2021-12-01 15:31:20,539 - BasePage - INFO - 打开默认页面
+2021-12-01 15:31:32,989 - BasePage - INFO - 打开默认页面
+2021-12-01 15:31:33,030 - BasePage - INFO - find the element successful
+2021-12-01 15:31:33,217 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 15:31:33,233 - BasePage - INFO - find the element successful
+2021-12-01 15:31:33,283 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 15:31:33,294 - BasePage - INFO - find the element successful
+2021-12-01 15:31:33,375 - BasePage - ERROR - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="add"]"}
+  (Session info: chrome=95.0.4638.69)
+
+2021-12-01 15:31:33,545 - BasePage - INFO - take screenshot and save to folder:/screenshots
+2021-12-01 15:49:17,874 - testcase - INFO - 获取测试数据
+2021-12-01 15:50:40,123 - testcase - INFO - 获取测试数据
+2021-12-01 16:00:35,751 - testcase - INFO - 获取测试数据
+2021-12-01 16:04:11,610 - testcase - INFO - 获取测试数据
+2021-12-01 16:07:43,492 - testcase - INFO - 获取测试数据
+2021-12-01 16:10:12,185 - testcase - INFO - 获取测试数据
+2021-12-01 16:10:20,644 - BasePage - INFO - find the element successful
+2021-12-01 16:10:20,848 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:10:20,863 - BasePage - INFO - find the element successful
+2021-12-01 16:10:20,955 - BasePage - INFO - find the element successful
+2021-12-01 16:10:26,003 - BasePage - INFO - find the element successful
+2021-12-01 16:10:26,116 - BasePage - INFO - type ad min@tynam.com in inputbox
+2021-12-01 16:10:26,127 - BasePage - INFO - find the element successful
+2021-12-01 16:10:26,185 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:10:26,195 - BasePage - INFO - find the element successful
+2021-12-01 16:10:26,240 - BasePage - INFO - find the element successful
+2021-12-01 16:10:31,290 - BasePage - INFO - find the element successful
+2021-12-01 16:10:31,426 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:10:31,437 - BasePage - INFO - find the element successful
+2021-12-01 16:10:36,785 - BasePage - ERROR - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'密码')]"}
+  (Session info: chrome=95.0.4638.69)
+
+2021-12-01 16:10:37,018 - BasePage - INFO - take screenshot and save to folder:/screenshots
+2021-12-01 16:10:37,029 - BasePage - INFO - find the element successful
+2021-12-01 16:10:37,074 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:10:37,081 - BasePage - INFO - find the element successful
+2021-12-01 16:10:37,110 - BasePage - INFO - type 1 in inputbox
+2021-12-01 16:10:37,119 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,208 - BasePage - ERROR - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'密码')]"}
+  (Session info: chrome=95.0.4638.69)
+
+2021-12-01 16:10:42,443 - BasePage - INFO - take screenshot and save to folder:/screenshots
+2021-12-01 16:10:42,452 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,500 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:10:42,508 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,544 - BasePage - INFO - type 111111 in inputbox
+2021-12-01 16:10:42,551 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,653 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,701 - BasePage - INFO - type admin1@tynam.com in inputbox
+2021-12-01 16:10:42,709 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,744 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:10:42,752 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,791 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,833 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:10:42,839 - BasePage - INFO - find the element successful
+2021-12-01 16:10:42,877 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:10:42,885 - BasePage - INFO - find the element successful
+2021-12-01 16:11:09,395 - testcase - INFO - 获取测试数据
+2021-12-01 16:11:21,552 - BasePage - INFO - find the element successful
+2021-12-01 16:11:21,637 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:11:21,655 - BasePage - INFO - find the element successful
+2021-12-01 16:11:21,732 - BasePage - INFO - find the element successful
+2021-12-01 16:11:26,971 - BasePage - INFO - find the element successful
+2021-12-01 16:11:27,041 - BasePage - INFO - type ad min@tynam.com in inputbox
+2021-12-01 16:11:27,050 - BasePage - INFO - find the element successful
+2021-12-01 16:11:27,105 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:11:27,116 - BasePage - INFO - find the element successful
+2021-12-01 16:11:27,173 - BasePage - INFO - find the element successful
+2021-12-01 16:11:32,378 - BasePage - INFO - find the element successful
+2021-12-01 16:11:32,441 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:11:32,453 - BasePage - INFO - find the element successful
+2021-12-01 16:11:32,505 - BasePage - INFO - find the element successful
+2021-12-01 16:11:37,673 - BasePage - INFO - find the element successful
+2021-12-01 16:11:37,739 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:11:37,752 - BasePage - INFO - find the element successful
+2021-12-01 16:11:37,797 - BasePage - INFO - type 1 in inputbox
+2021-12-01 16:11:37,803 - BasePage - INFO - find the element successful
+2021-12-01 16:11:37,857 - BasePage - INFO - find the element successful
+2021-12-01 16:11:59,012 - testcase - INFO - 获取测试数据
+2021-12-01 16:12:07,463 - BasePage - INFO - find the element successful
+2021-12-01 16:12:07,552 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:12:07,566 - BasePage - INFO - find the element successful
+2021-12-01 16:12:07,625 - BasePage - INFO - find the element successful
+2021-12-01 16:12:12,851 - BasePage - INFO - find the element successful
+2021-12-01 16:12:12,949 - BasePage - INFO - type ad min@tynam.com in inputbox
+2021-12-01 16:12:12,958 - BasePage - INFO - find the element successful
+2021-12-01 16:12:13,023 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:12:13,030 - BasePage - INFO - find the element successful
+2021-12-01 16:12:13,080 - BasePage - INFO - find the element successful
+2021-12-01 16:12:18,273 - BasePage - INFO - find the element successful
+2021-12-01 16:12:18,365 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:12:18,377 - BasePage - INFO - find the element successful
+2021-12-01 16:12:18,432 - BasePage - INFO - find the element successful
+2021-12-01 16:12:23,623 - BasePage - INFO - find the element successful
+2021-12-01 16:12:23,708 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:12:23,720 - BasePage - INFO - find the element successful
+2021-12-01 16:12:23,770 - BasePage - INFO - type 1 in inputbox
+2021-12-01 16:12:23,777 - BasePage - INFO - find the element successful
+2021-12-01 16:12:23,828 - BasePage - INFO - find the element successful
+2021-12-01 16:12:29,014 - BasePage - INFO - find the element successful
+2021-12-01 16:12:29,104 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:12:29,111 - BasePage - INFO - find the element successful
+2021-12-01 16:12:29,176 - BasePage - INFO - type 111111 in inputbox
+2021-12-01 16:12:29,183 - BasePage - INFO - find the element successful
+2021-12-01 16:12:34,423 - BasePage - INFO - find the element successful
+2021-12-01 16:12:34,518 - BasePage - INFO - type admin1@tynam.com in inputbox
+2021-12-01 16:12:34,525 - BasePage - INFO - find the element successful
+2021-12-01 16:12:34,589 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:12:34,596 - BasePage - INFO - find the element successful
+2021-12-01 16:12:39,864 - BasePage - INFO - find the element successful
+2021-12-01 16:12:39,957 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 16:12:39,965 - BasePage - INFO - find the element successful
+2021-12-01 16:12:40,032 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 16:12:40,041 - BasePage - INFO - find the element successful
+2021-12-01 16:12:40,117 - BasePage - INFO - find the element successful
+2021-12-01 16:30:04,673 - BasePage - ERROR - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='email']"}
+  (Session info: chrome=95.0.4638.69)
+
+2021-12-01 16:30:04,817 - BasePage - INFO - take screenshot and save to folder:/screenshots
+2021-12-01 17:18:30,474 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,547 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 17:18:30,562 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,619 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 17:18:30,630 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,724 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,792 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,850 - BasePage - INFO - type 1001 in inputbox
+2021-12-01 17:18:30,861 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,911 - BasePage - INFO - type lily in inputbox
+2021-12-01 17:18:30,927 - BasePage - INFO - find the element successful
+2021-12-01 17:18:30,974 - BasePage - INFO - type Female in inputbox
+2021-12-01 17:18:30,986 - BasePage - INFO - find the element successful
+2021-12-01 17:18:31,043 - BasePage - INFO - type 一年级二班 in inputbox
+2021-12-01 17:18:31,161 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,414 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,483 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 17:22:12,497 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,548 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 17:22:12,559 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,661 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,737 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,795 - BasePage - INFO - type 1001 in inputbox
+2021-12-01 17:22:12,807 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,862 - BasePage - INFO - type lily in inputbox
+2021-12-01 17:22:12,874 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,918 - BasePage - INFO - type Female in inputbox
+2021-12-01 17:22:12,933 - BasePage - INFO - find the element successful
+2021-12-01 17:22:12,983 - BasePage - INFO - type 一年级二班 in inputbox
+2021-12-01 17:22:12,995 - BasePage - INFO - find the element successful
+2021-12-01 17:23:02,578 - BasePage - INFO - find the element successful
+2021-12-01 17:23:02,676 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 17:23:02,688 - BasePage - INFO - find the element successful
+2021-12-01 17:23:02,758 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 17:23:02,770 - BasePage - INFO - find the element successful
+2021-12-01 17:23:02,863 - BasePage - INFO - find the element successful
+2021-12-01 17:23:07,924 - BasePage - INFO - find the element successful
+2021-12-01 17:23:07,998 - BasePage - INFO - type 1001 in inputbox
+2021-12-01 17:23:08,011 - BasePage - INFO - find the element successful
+2021-12-01 17:23:08,071 - BasePage - INFO - type lily in inputbox
+2021-12-01 17:23:08,086 - BasePage - INFO - find the element successful
+2021-12-01 17:23:08,150 - BasePage - INFO - type Female in inputbox
+2021-12-01 17:23:08,166 - BasePage - INFO - find the element successful
+2021-12-01 17:23:08,231 - BasePage - INFO - type 一年级二班 in inputbox
+2021-12-01 17:23:13,286 - BasePage - INFO - find the element successful
+2021-12-01 17:25:43,476 - BasePage - INFO - find the element successful
+2021-12-01 17:25:43,570 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-12-01 17:25:43,582 - BasePage - INFO - find the element successful
+2021-12-01 17:25:43,644 - BasePage - INFO - type tynam123 in inputbox
+2021-12-01 17:25:43,655 - BasePage - INFO - find the element successful
+2021-12-01 17:25:43,743 - BasePage - INFO - find the element successful
+2021-12-01 17:25:48,809 - BasePage - INFO - find the element successful
+2021-12-01 17:25:48,877 - BasePage - INFO - type 1001 in inputbox
+2021-12-01 17:25:48,892 - BasePage - INFO - find the element successful
+2021-12-01 17:25:48,951 - BasePage - INFO - type lily in inputbox
+2021-12-01 17:25:48,964 - BasePage - INFO - find the element successful
+2021-12-01 17:25:49,022 - BasePage - INFO - type Female in inputbox
+2021-12-01 17:25:49,036 - BasePage - INFO - find the element successful
+2021-12-01 17:25:49,102 - BasePage - INFO - type 一年级二班 in inputbox
+2021-12-01 17:25:54,163 - BasePage - INFO - find the element successful
